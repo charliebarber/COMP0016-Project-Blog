@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on SCI SDK</title>
-    <link>https://example.com/</link>
+    <link>http://students.cs.ucl.ac.uk/2022/group19/</link>
     <description>Recent content in Blog on SCI SDK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://students.cs.ucl.ac.uk/2022/group19/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>http://students.cs.ucl.ac.uk/2022/group19/about/</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>http://students.cs.ucl.ac.uk/2022/group19/about/</guid>
       <description>The SCI Telemetry SDK is a project between UCL Computer Science students and NTT Data who are working on a calculator for Software Carbon Intensity. Our role as students is to create an SDK to feed data into this calculator. Software Carbon Intensity is a term coined by the Green Software Foundation, of which NTT data is a member, aiming to measure the carbon impact of software systems.</description>
     </item>
     
